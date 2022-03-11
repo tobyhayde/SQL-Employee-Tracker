@@ -1,8 +1,8 @@
 // List the dependencies here.
-const mysql = require('mysql');
-const inquirer = require('inquirer');
-const consoleTable = require('console.table');
-const util = require('util');
+const mysql = require('/Users/tobyh/OneDrive/Desktop/projects/SQL-Employee-Tracker/node_modules/mysql');
+const inquirer = require('/Users/tobyh/OneDrive/Desktop/projects/SQL-Employee-Tracker/node_modules/inquirer');
+const consoleTable = require('/Users/tobyh/OneDrive/Desktop/projects/SQL-Employee-Tracker/node_modules/console.table');
+const util = require('/Users/tobyh/OneDrive/Desktop/projects/SQL-Employee-Tracker/node_modules/util');
 
 // Create the connection to MySQL WorkBench
 let connection = mysql.createConnection({
